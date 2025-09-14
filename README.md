@@ -74,11 +74,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,python,html,css,tailwind,nodejs,discord,docker,vscode,replit,cpp,cs,unreal,unity,linux,git,github" />
 </p>
-
----
-
-## 📂 Featured Projects
-- [**hello-github**](https://github.com/julianomangli/hello-github) — CI pipelines, PR workflow, CODEOWNERS, Pages  
-- [**portfolio-julianomangli**](https://github.com/julianomangli/portfolio-julianomangli) — GitHub Pages portfolio  
-- [**js-utils**](https://github.com/julianomangli/js-utils) — JavaScript utilities with tests & CI  
-- [**node-api-starter**](https://github.com/julianomangli/node-api-starter) — Express API with tests, CI, Docker
