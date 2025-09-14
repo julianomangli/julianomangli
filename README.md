@@ -33,6 +33,13 @@
 
 ---
 
+## 🥇 Achievements
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api/badge/julianomangli" />
+</p>
+
+---
+
 # 📚 Structured Knowledge
 
 ## 🌐 Web Development
@@ -74,4 +81,10 @@
 ## ⚡ Tools & Environments
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,python,html,css,tailwind,nodejs,docker,vscode,replit,cpp,cs,unreal,unity,linux,git,github" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=julianomangli&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
