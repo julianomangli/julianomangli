@@ -23,14 +23,6 @@
 
 ---
 
-## 🤖 Discord Bots
-**Languages:** JavaScript (Node.js), Python  
-**Libraries:** `discord.js`, `discord.py`  
-**Themes/Use-cases:** gaming utilities (leaderboards, stats), moderation & server management, roles/reactions, custom commands  
-**Hosting:** Replit, local Node.js environments
-
----
-
 ## 🎮 Game Development
 **Engines:** Unreal Engine 5, Unity  
 **Coding:** C++ (Unreal), C# (Unity), Unreal Blueprints, Lua (tooling)  
