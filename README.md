@@ -1,18 +1,8 @@
 <p align="center">
-  <!-- Profile detail summary (includes recent activity) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianomangli&theme=github_dark" />
-</p>
-
-<p align="center">
   <!-- General stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=julianomangli&show_icons=true&rank_icon=github&include_all_commits=true&theme=github_dark&hide_border=true" height="150" />
   <!-- Top languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianomangli&layout=compact&langs_count=10&theme=github_dark&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <!-- Contribution activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=julianomangli&theme=github-compact&hide_border=true" />
 </p>
 
 <p align="center">
