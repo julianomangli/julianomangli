@@ -1,57 +1,84 @@
-# 👋 Julian — `@julianomangli`
-
-Welcome to my GitHub.  
-This account is my **portfolio** — every repository here reflects my learning path, technical skills, and projects I’ve built.
-
----
-
-## 🛠️ Skills
-- **Languages:** JavaScript (ES6+), HTML, CSS  
-- **Frameworks & Libraries:** Node.js, Express  
-- **Testing:** Jest, Supertest  
-- **DevOps & Tools:** Git, GitHub, GitHub Actions (CI/CD), Docker, VS Code, Replit  
-- **APIs & Integrations:** Stripe API, Printful API  
-
----
-
-## 📚 Currently Learning
-- Next.js  
-- Tailwind CSS  
-- Sanity.io  
-- Advanced GitHub automation  
-- API-driven e-commerce development  
-
----
-
-## 📂 Featured Repositories
-- [**hello-github**](https://github.com/julianomangli/hello-github) — Demonstrates pull requests, GitHub Actions, CODEOWNERS, and Pages  
-- [**portfolio-julianomangli**](https://github.com/julianomangli/portfolio-julianomangli) — Static GitHub Pages portfolio site  
-- [**js-utils**](https://github.com/julianomangli/js-utils) — JavaScript utilities with tests & CI  
-- [**node-api-starter**](https://github.com/julianomangli/node-api-starter) — Express API with Jest tests, CI, and Docker  
-
----
-
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julianomangli&show_icons=true&theme=github_dark&hide_border=true" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianomangli&layout=compact&theme=github_dark&hide_border=true" height="160px" />
+  <!-- Profile detail summary (includes recent activity) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianomangli&theme=github_dark" />
+</p>
+
+<p align="center">
+  <!-- General stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=julianomangli&show_icons=true&rank_icon=github&include_all_commits=true&theme=github_dark&hide_border=true" height="150" />
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianomangli&layout=compact&langs_count=10&theme=github_dark&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <!-- Contribution activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=julianomangli&theme=github-compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Productive time (daily commits by hour) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=julianomangli&utcOffset=+3&theme=github_dark" height="150" />
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=julianomangli&theme=github-dark&hide_border=true" height="150" />
 </p>
 
 ---
 
-## 🔥 Streak & Activity
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=julianomangli&theme=github-dark&hide_border=true" height="160px" />
-</p>
+# 📚 Structured Knowledge
+
+## 🌐 Web Development
+**Frontend:** HTML, CSS, Tailwind CSS  
+**Backend:** JavaScript (Node.js, Express)  
+**APIs & Integrations:** Stripe, Printful, Sanity.io  
+**CI/CD & Deploy:** GitHub Actions, GitHub Pages, Docker  
+**Tools:** VS Code, Replit
+
+---
+
+## 🤖 Discord Bots
+**Languages:** JavaScript (Node.js), Python  
+**Libraries:** `discord.js`, `discord.py`  
+**Themes/Use-cases:** gaming utilities (leaderboards, stats), moderation & server management, roles/reactions, custom commands  
+**Hosting:** Replit, local Node.js environments
+
+---
+
+## 🎮 Game Development
+**Engines:** Unreal Engine 5, Unity  
+**Coding:** C++ (Unreal), C# (Unity), Unreal Blueprints, Lua (tooling)  
+**Systems:** gameplay logic, physics, animation, AI basics, level design  
+**Graphics:** shaders/materials, lighting, particles, rendering pipelines
+
+---
+
+## 🛡️ Security & Ethical Hacking
+**OS:** Kali Linux, Ubuntu, Fedora, Arch Linux  
+**Focus:** penetration testing basics, network scanning/monitoring, vulnerability assessment, Linux CLI operations  
+**Tools:** Nmap, Wireshark, Metasploit Framework, Burp Suite, Aircrack-ng  
+**Scripting:** Bash, Python for automation
+
+---
+
+## 🧰 Broader Exposure
+**Systems & Compiled:** C, C++, C#, Rust, Go, Java  
+**Web & Scripting:** PHP, Ruby, Perl, TypeScript, Lua  
+**Functional/Academic:** Haskell, OCaml, Lisp, Scheme, Erlang  
+**Mobile:** Swift (iOS), Kotlin (Android), Objective-C  
+**Data & Analytics:** R, MATLAB, Julia  
+**Databases:** MySQL, PostgreSQL, SQLite, MongoDB, Firebase, GraphQL  
+**Config/Markup:** JSON, YAML, XML, TOML, Markdown
 
 ---
 
 ## ⚡ Tools & Environments
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,docker,vscode,replit" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,tailwind,nodejs,discord,docker,vscode,replit,cpp,cs,unreal,unity,linux,git,github" />
 </p>
 
 ---
 
-## 📫 Connect
-- GitHub: [@julianomangli](https://github.com/julianomangli)
+## 📂 Featured Projects
+- [**hello-github**](https://github.com/julianomangli/hello-github) — CI pipelines, PR workflow, CODEOWNERS, Pages  
+- [**portfolio-julianomangli**](https://github.com/julianomangli/portfolio-julianomangli) — GitHub Pages portfolio  
+- [**js-utils**](https://github.com/julianomangli/js-utils) — JavaScript utilities with tests & CI  
+- [**node-api-starter**](https://github.com/julianomangli/node-api-starter) — Express API with tests, CI, Docker
