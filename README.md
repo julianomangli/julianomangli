@@ -33,13 +33,6 @@
 
 ---
 
-## 🥇 Achievements
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/badge/julianomangli" />
-</p>
-
----
-
 # 📚 Structured Knowledge
 
 ## 🌐 Web Development
