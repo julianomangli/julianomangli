@@ -1,9 +1,3 @@
-# 👋 Juliano Mangli — `@julianomangli`
-
-This GitHub profile is my portfolio.  
-It shows live analytics (stats, languages, activity) and a clean breakdown of my work across web, Discord bots, game development, security, and broader programming.
-
----
 <p align="center">
   <!-- General stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=julianomangli&show_icons=true&rank_icon=github&include_all_commits=true&theme=github_dark&hide_border=true" height="150" />
