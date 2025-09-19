@@ -73,7 +73,7 @@
 
 ## ⚡ Tools & Environments
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,tailwind,nodejs,docker,vscode,replit,cpp,cs,unreal,unity,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,typescript,tailwind,nodejs,docker,vscode,replit,cpp,cs,unreal,unity,linux,git,github" />
 </p>
 
 ---
