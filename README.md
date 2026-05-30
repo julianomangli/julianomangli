@@ -1,9 +1,4 @@
 <p align="center">
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianomangli&layout=compact&langs_count=10&theme=github_dark&hide_border=true" height="150" />
-</p>
-
-<p align="center">
   <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=julianomangli&theme=github-dark&hide_border=true" height="150" />
 </p>
