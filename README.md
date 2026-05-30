@@ -1,6 +1,4 @@
 <p align="center">
-  <!-- General stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=julianomangli&show_icons=true&rank_icon=github&include_all_commits=true&theme=github_dark&hide_border=true" height="150" />
   <!-- Top languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianomangli&layout=compact&langs_count=10&theme=github_dark&hide_border=true" height="150" />
 </p>
